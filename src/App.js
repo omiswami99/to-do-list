@@ -49,7 +49,6 @@ function App() {
     <>
       <div className="mainDiv">
         <div className="centerDiv">
-          <br />
           <h1>To Do List</h1>
           <br />
 
